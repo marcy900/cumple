@@ -26,11 +26,14 @@
     </header>
     <main>
      <section class="contenedor sobre-nosotros">
-       <div class="titulo">
-       ¡Feliz cumpleaños!
+
+       <div class="col-auto p-5 text-center">
+        <h1 class="titulo">¡Feliz cumpleaños! </h1><br>
+          <img src="img/sol.jpg" alt="" class="imagen-about us" width="500" height="240">
        </div>
+    
           <div class="contenedor-sobre-nosotros">
-            <img src="img/sol.jpg" alt="" class="imagen-about us" width="550" height="290">
+           
             <div class="contenido-textos">
                 <h3>
                   Mery <3 
